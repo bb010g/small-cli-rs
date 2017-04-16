@@ -1,0 +1,11 @@
+[package]
+authors = ["Brayden Banks <bb010g@gmail.com>"]
+description = "A small dice rolling tool."
+license = "Apache-2.0/MIT"
+name = "rollin"
+readme = "README.md"
+repository = "https://github.com/bb010g/small-cli-rs/tree/master/rollin"
+version = "0.1.0"
+
+[dependencies]
+rand = "0.3.15"
